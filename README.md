@@ -1,4 +1,3 @@
-
 # Hospitality Management Dashboard (Power BI)
 
 ## Project Overview
@@ -47,7 +46,7 @@ This dashboard addresses these challenges by providing clear and interactive ins
 
 ## Dashboard Preview
 
-![Dashboard Overview](Screenshot2026-02-28 022154.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
@@ -81,3 +80,4 @@ This dashboard supports:
 ## Contact
 
 For feedback or collaboration, feel free to connect.
+
